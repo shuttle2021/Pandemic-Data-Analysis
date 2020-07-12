@@ -13,7 +13,7 @@ Here are the practiced &amp; code play files summoned before Lovely Professional
 <b>9. Pivot_table.xlsx</b> - These are the files Exported on Practice.ipynb<br>
 <b>10. State.csv</b> - These are the files used on Major Project.ipynb<br>
 <b>11. Covid-19.csv</b> - These are the files used on Major Project.ipynb<br>
-<b>12. PAML_COVID_Dataset Sheet1.csv.csv</b> - These are the files used on Major Project.ipynb<br>
+<b>12. PAML_COVID_Dataset Sheet1.csv</b> - These are the files used on Major Project.ipynb<br>
 <b>13. Screenshot Tk Pandemic Analytics.png</b> - These are the supportive file for Take Home Excercises.ipynb<br>
 <b>14. Slide.pdf</b> - These are the supportive file for  Minor Project.ipynb<br>
 <b>15. Major Project Slide.pdf</b> - These are the files used on Major Project.ipynb<br>
