@@ -1,7 +1,7 @@
 # Pandemic-Data-Analysis-LPU
 Here are the practiced &amp; code play files summoned before Lovely Professional University instructors of Pandemic Data Analytics course @loviraj @manikant-iiitmk &amp; Jasmine Kaur
 
-## Files descriptions:
+## File descriptions:
 <b>1. Contacts.py</b> - Is a simple contact code using Dict with While & for loop<br>
 <b>2. Practice.ipynb</b> - These are practiced files programmed for better understanding<br>
 <b>3. Take Home Excercises.ipynb</b> - Here are the Take Home Excercise solutions<br>
